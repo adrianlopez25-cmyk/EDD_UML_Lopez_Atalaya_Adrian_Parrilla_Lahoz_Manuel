@@ -23,7 +23,8 @@ Nosotros en clase nos hemos centrado en los que representan aspectos generales d
 
 # Nodos de control:
 
-![][image1]
+<img width="656" height="329" alt="image" src="https://github.com/user-attachments/assets/23c29939-748c-4cb2-99bd-a5db16b59d5d" />
+
 
 # 
 
